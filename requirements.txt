@@ -63,7 +63,7 @@ sip==4.19.22
 six==1.14.0
 sqlparse==0.3.1
 team==1.0
-thefuck==3.30
+thefuck==3.31
 toml==0.10.0
 udiskie==2.1.1
 urllib3==1.25.9
